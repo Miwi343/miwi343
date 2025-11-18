@@ -1,8 +1,16 @@
-# Hi, I’m Mihir
+<div align="center">
+  
+# 🥝 Hi, I’m Mihir
 
-I study Computer Science at Cornell, and most of my work sits at the intersection of **AI agents**, **machine learning systems**, and **full-stack engineering**. I like building tools that automate reasoning, streamline workflows, and connect language models to the real world.  
+I study Computer Science at Cornell, and most of my work sits at the intersection of **AI agents**,  
+**machine learning systems**, and **full-stack engineering**.  
+I like building tools that automate reasoning, streamline workflows, and  
+connect language models to the real world.
 
-I’m especially interested in agentic systems, retrieval, ML infrastructure, and any project where reliability and clarity matter as much as cleverness.
+I’m interested in agentic systems, retrieval, ML infrastructure, and any project  
+where reliability and clarity matter as much as cleverness.
+
+</div>
 
 ---
 
