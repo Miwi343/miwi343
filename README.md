@@ -10,8 +10,6 @@ connect language models to the real world.
 I’m interested in agentic systems, retrieval, ML infrastructure, and any project  
 where reliability and clarity matter as much as cleverness.
 
-</div>
-
 ---
 
 ## What I work with
@@ -27,11 +25,12 @@ I spend most of my time in **Python**, **C++**, and **JavaScript**, usually work
 ---
 
 ## Activity & Focus Areas
-![Repo Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miwi343)  
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miwi343)  
+![Repo Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miwi343)  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miwi343)  
 
 ---
 
 ## Elsewhere
-**LinkedIn:** https://linkedin.com/in/mihirkulsh  
-**Email:** mk2664@cornell.edu
+Connect with me on LinkedIn! [🔗](https://linkedin.com/in/mihirkulsh)  
+Email me! [✉️](mailto:mk2664@cornell.edu)
+
+</div>
