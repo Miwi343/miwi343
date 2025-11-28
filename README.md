@@ -1,36 +1,19 @@
 <div align="center">
   
-# 🥝 Hi, I’m Mihir
+  # 🥝 Hi, I’m Mihir
 
-I study Computer Science at Cornell, and most of my work sits at the intersection of **AI agents**,  
-**machine learning systems**, and **full-stack engineering**.  
-I like building tools that automate reasoning, streamline workflows, and  
-connect language models to the real world.
+  #### <span style="font-weight: normal;"> I'm driven by the purpose of building solutions that deliver lasting impact to communities and clients, and by a passion for tackling technical problems I can immerse myself in.</span>
 
-I’m interested in agentic systems, retrieval, ML infrastructure, and any project  
-where reliability and clarity matter as much as cleverness.
+  ---
 
----
 
-## What I work with
-I spend most of my time in **Python**, **C++**, and **JavaScript**, usually working across AI frameworks (PyTorch, AutoGen), distributed or cloud-based setups, and full-stack backends (Node.js, FastAPI). I also work with robotics tooling like PX4 and MavSDK, and I enjoy exploring ML training workflows and model evaluation.
+  ### 📌 Currently working on
+  Using CLIP + PyTorch Lightning to classify the Caltech-101 dataset and logging results in W&B. Preparing for contribution to SunLab @ Cornell research.  
+  → https://github.com/Miwi343/clip-caltech101-lightning
 
----
+  ---
+</div>
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Miwi343&show_icons=true&hide_title=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miwi343&layout=compact)  
-![Streak](https://streak-stats.demolab.com?user=Miwi343)
-
----
-
-## Activity & Focus Areas
-![Repo Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miwi343)  ![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Miwi343)  
-
----
-
-## Elsewhere
-Connect with me on LinkedIn! [🔗](https://linkedin.com/in/mihirkulsh)  
-Email me! [✉️](mailto:mk2664@cornell.edu)
-
+<div align="center">
+  <img src="./calvin-and-hobbes.png" width="75%" />
 </div>
