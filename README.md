@@ -8,8 +8,8 @@
 
 
   ### 📌 Currently working on
-  Using CLIP + PyTorch Lightning to classify the Caltech-101 dataset and logging results in W&B. Preparing for contribution to SunLab @ Cornell research.  
-  → https://github.com/Miwi343/clip-caltech101-lightning
+  Working on implementing and backtesting quantitative trading strategies in Cornell Data Science x Millenium SDP project
+  → [Millenium-Data-Quality-25-26](https://github.com/lucas-309/millennium-data-quality-25-26)
 
   ---
 </div>
