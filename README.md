@@ -2,7 +2,7 @@
   
   # 🥝 Hi, I’m Mihir
 
-  #### <span style="font-weight: normal;"> I'm driven by the purpose of building solutions that deliver lasting impact to communities and clients, and by a passion for tackling technical problems I can immerse myself in.</span>
+  #### <span style="font-weight: normal;"> I'm driven by the purpose of building solutions that deliver lasting impact to communities and clients.</span>
 
   ---
 
