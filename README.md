@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🥝 Hi, I’m Mihir
+  # 🥝 Hi, I’m Mihir!
 
   #### <span style="font-weight: normal;"> I'm driven by the purpose of building solutions that deliver lasting impact to communities and clients.</span>
 
