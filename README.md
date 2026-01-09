@@ -2,10 +2,7 @@
   
   # 🥝 Hi, I’m Mihir!
 
-  #### <span style="font-weight: normal;"> I'm driven by the purpose of building solutions that deliver lasting impact to communities and clients.</span>
-
   ---
-
 
   ### 📌 Currently working on
   Working on implementing and backtesting quantitative trading strategies in Cornell Data Science x Millenium SDP project
