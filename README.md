@@ -6,10 +6,12 @@
 
   ### 📌 Currently working on
   Building a personal website!
-
+  
   ---
+
+  ### ⬇️ Here's one of my favorite comic strips I read growing up
 </div>
 
 <div align="center">
-  <img src="./calvin-and-hobbes.png" width="75%" />
+  <img src="./calvin-and-hobbes.png" width="65%" />
 </div>
