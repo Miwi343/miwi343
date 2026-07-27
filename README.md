@@ -2,7 +2,8 @@
   
 # Hi, I’m [Mihir](https://miwi343.github.io/)! 
 ### 📌 Currently working on 
-  Building a personal website!
+  - [ ] Handwriting Transformers in PyTorch and JAX
+  - [x] Building a personal website! (Still WIP) [miwi343.github.io/](miwi343.github.io/)
   ### ⬇️ Here's one of my favorite comic strips I read growing up
 </div>
 
